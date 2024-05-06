@@ -1,0 +1,34 @@
+
+nav ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+nav ul li {
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:100%;
+    height:100vh;
+}
+main{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h2{
+    color: blue
+}
+
